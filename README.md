@@ -48,7 +48,6 @@ A reliable billing audit framework minimizes errors, strengthens compliance, and
 
 ### 4. Report Generation
 - Produce a comprehensive billing audit report.
-- Integrate a Large Language Model (LLM) to assist in interpreting data and generating narrative insights.
 - Highlight key findings, trends, and issues uncovered in the analysis.
 - Provide an overall assessment of the billing process’s accuracy and efficiency.
 - Automate report generation as a repeatable step within the data pipeline.
